@@ -1,0 +1,5 @@
+Flask
+openai
+gspread
+oauth2client
+gunicorn
